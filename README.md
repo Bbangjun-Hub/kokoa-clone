@@ -1,3 +1,4 @@
-# KoKoa Clone
+# KoKoa Clone (First project)
 
-HTML & CSS are so much fun!
+This is my first web site by using HTML, CSS.
+Also, it's designed by myself. (Kkamji Talk)
